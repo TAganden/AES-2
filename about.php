@@ -8,6 +8,7 @@
 
       <?php include('includes/header.php'); ?>
       
+      <p><img src="images/encryption_banner.png" alt="" width="960" height="275" /></p>
       <?php include('includes/nav.php'); ?>
       
       <div id="content">
