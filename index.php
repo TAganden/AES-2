@@ -8,8 +8,9 @@
    <div id="wrapper">
 
       <?php include('includes/header.php'); ?>
-      
-      <?php include('includes/nav.php'); ?>
+<p><img src="images/encryption_banner.png" width="960" height="275" alt="Encrypiuon"><br>
+</p>
+<?php include('includes/nav.php'); ?>
       
       <div id="content">
          <h2>Welcome</h2>
@@ -29,7 +30,7 @@
 
       <?php include('includes/sidebar.php'); ?>
       
-      <?php include('includes/footer.php'); ?>
+     <?php include('includes/footer.php'); ?>
       
 	</div> <!-- End #wrapper -->
 
