@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <?php include('includes/htmlhead.php'); ?>
 
 <body>
@@ -8,6 +6,9 @@
 
       <?php include('includes/header.php'); ?>
       
+      <p><img src="images/encryption_banner.png" alt="" width="1000" height="275" />
+      </p>
+      <p>&nbsp;</p>
       <?php include('includes/nav.php'); ?>
       
       <div id="content">
