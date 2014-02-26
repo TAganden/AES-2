@@ -1,5 +1,5 @@
       <div id="header">
-	      <h2>Starting Template for AES implementation</h2>
+	      <h2>AES implementation</h2>
 	      <p>
 	      <?php 
 	         if (isset($_SESSION['msg'])) 
